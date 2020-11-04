@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Home Solar plus Energy Storage Revolution Is About to Begin
-date: 2020-11-04T08:30:11.095Z
+date: 2020-11-04T08:37:10.156Z
 description: >+
   Home solar batteries from Tesla Motors, which could upset utilities as we know
   them. Billion dollar solar bonds from SolarCity, backstopped by banking
